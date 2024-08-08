@@ -11,4 +11,4 @@ My age is 28
 
 Ohh I found you on internet
 
-and Found you on Twitter and facebook
+and Found you on Twitter
