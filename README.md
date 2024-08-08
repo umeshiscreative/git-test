@@ -8,3 +8,5 @@
 
 # How to start a git commit
 
+## So let's get started for this process
+
