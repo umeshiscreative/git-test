@@ -26,3 +26,9 @@ GREEN Added
 Left
 
 Right
+
+EAST
+
+WEST
+
+NORTH
